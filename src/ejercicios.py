@@ -34,10 +34,7 @@ def es_primo(n):
         return False
     if n == 2:
         return True 
-    for 
-    
-    
-            
+               
 # Ejercicio 4: Transponer una matriz
 def transponer_matriz(matriz):
     """
@@ -45,7 +42,6 @@ def transponer_matriz(matriz):
     Incluir el código aquí para transponer la matriz.
     """
     
-
 # Ejercicio 5: Filtrar números pares
 def filtrar_pares(lista):
     """
@@ -59,7 +55,6 @@ def filtrar_pares(lista):
         num_par.append(i)
     return num_par
     
-
 # Ejercicio 6: Contar la cantidad de palabras en una frase
 def contar_palabras(frase):
     """
@@ -78,11 +73,9 @@ def tabla_multiplicar(n):
     cont = 11
     while cont < 11:
         
-
-
 # Ejercicio 8: Contar números negativos en una lista
-def contar_negativos(lista):
-    """
+     def contar_negativos(lista):
+      """
     Recibe una lista de números y devuelve la cantidad de números negativos.
     Incluir el código aquí para contar los números negativos en la lista.
     """
